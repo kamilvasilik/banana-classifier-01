@@ -14,3 +14,6 @@ Data / test / not-banana (80 pics) \
 
 model weights saved at \
 Checkpoint / weigth.hdf5
+
+### Process
+The model took about 60 minutes to train with 10 epochs with almost 80% accuracy.
