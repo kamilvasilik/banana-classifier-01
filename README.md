@@ -3,9 +3,11 @@
 basic_banana_classifier
 
 ### folder structure
-Data / train / banana \
-Data / train / not-banana \
-Data / valid / banana \
-Data / valid / not-banana \
-Data / test / banana \ 
-Data / test / not-banana \
+Data / train / banana (800 pics) \
+Data / train / not-banana (800 pics) \
+Data / valid / banana (214 pics) \
+Data / valid / not-banana (214 pics) \
+Data / test / banana (80 pics) \
+Data / test / not-banana (80 pics) \
+
+- data downloaded from Image-Net using words 'banana', 'window', 'armchair', 'corn', 'apple', 'table'
