@@ -1,8 +1,8 @@
 # banana-classifier-01
 
-basic_banana_classifier
+basic_banana_classifier - Jupyter Notebook
 
-### folder structure
+### Folder structure
 Data / train / banana (800 pics) \
 Data / train / not-banana (800 pics) \
 Data / valid / banana (214 pics) \
@@ -12,8 +12,8 @@ Data / test / not-banana (80 pics) \
 
 - data downloaded from Image-Net using words 'banana', 'window', 'armchair', 'corn', 'apple', 'table' \
 
-model weights saved at \
-Checkpoint / weigth.hdf5
+### model 
+weights saved at \
+Checkpoint / weigth.hdf5 \
 
-### Process
 The model took about 60 minutes to train with 10 epochs with almost 80% accuracy.
