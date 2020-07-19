@@ -8,12 +8,12 @@ Data / train / not-banana (800 pics) \
 Data / valid / banana (214 pics) \
 Data / valid / not-banana (214 pics) \
 Data / test / banana (80 pics) \
-Data / test / not-banana (80 pics) \
+Data / test / not-banana (80 pics) 
 
-- data downloaded from Image-Net using words 'banana', 'window', 'armchair', 'corn', 'apple', 'table' \
+- data downloaded from Image-Net using words 'banana', 'window', 'armchair', 'corn', 'apple', 'table' 
 
 ### model 
 weights saved at \
-Checkpoint / weigth.hdf5 \
+Checkpoint / weigth.hdf5 
 
 The model took about 60 minutes to train with 10 epochs with almost 80% accuracy.
